@@ -13,8 +13,8 @@ Contoh : <br/>
 |basi |false |
 |isi |true |
 
-
-
+<br/>
+<br/>
 2. Buat aplikasi penjumlahan diagonal array 3 x 3<br/>
 Contoh: <br/>
 <br/>
